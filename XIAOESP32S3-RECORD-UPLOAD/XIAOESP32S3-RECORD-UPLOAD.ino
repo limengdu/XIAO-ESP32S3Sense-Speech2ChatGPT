@@ -33,7 +33,7 @@ void setup() {
     while (1) ;
   }
 
-  if(!SD.begin(21)){
+  if(!SD.begin(D2)){
     Serial.println("Failed to mount SD Card!");
     while (1) ;
   }
