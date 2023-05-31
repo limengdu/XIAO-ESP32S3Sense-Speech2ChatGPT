@@ -169,8 +169,8 @@ void listDir(fs::FS &fs, const char * dirname, uint8_t levels){
 
 void wifiConnect(void *pvParameters){
   isWIFIConnected = false;
-  char* ssid = "mengdu-OpenWrt";
-  char* password = "15935700";
+  char* ssid = "wifi-ssid";
+  char* password = "wifi-password";
   Serial.print("Try to connect to ");
   Serial.println(ssid);
   WiFi.begin(ssid, password);
