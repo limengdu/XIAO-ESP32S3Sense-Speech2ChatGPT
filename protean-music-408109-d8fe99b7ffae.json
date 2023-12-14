@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "protean-music-408109",
+  "private_key_id": "d8fe99b7ffaeffd40778d104d81752e35cc146a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAybqUnHHeXLaH\n/gf/WXseBv2BTCyO2hdX/o/oBGv170Ur3PJscBZxJo2f8jFKb4a0g2GuPAu1BuHb\nPL9xbWbVCztUS3sEb5k1PqRf8pI8VP6yjnLppirc7wSB0W6KGTVQDQ6Pb44UAMeZ\n1KPdmobW9NKaezWMIZsa5mmCSeWdzsEeCKkPIm9DC4umwhwEmwr7j143Y7JHS/es\n6rdQS8/cfEgxtBYvdMkOs0hIEAtuFDzJbV58YIeP+uq7U5jJgtNOmyHsHaISCgGs\nFMQM1TUxB/WFxvfmbm/LAyky2MsA1obBGYnKUQctu+htkvwX8czulSiYSIIv6NgL\n0N7xN8cBAgMBAAECggEAAW+/XyocmG6SbEhSoO7MFw4wR2KyQPeTuEkiTgqdD1O9\nbTU+l9uXSeKNUvAdY+ju1QYsQn3EtzrvkJBO+4u4JMWU/Jd6DtoSBy6J+lkMCT0M\n5Mxg7igZ0P71m/ixMoA7lcwdxqiAeNpZ97sjjsbUUw0MoLANrGyiWOdMnqGUVMJZ\nUL50LgUjBxEBJd6kUkwwU72IkLxM3uXVwnZwOdg4mNEHZTUocNtGatSulwEvzlau\nhEEMBzi5SUlDPrOQFUAY04Fl/X1CKN9a9yDI80bbHvc7JeOu0BI6r99OCyOlAgDv\n/vnn8NyNIQOhy+2Q0z3MlQ3baOgRtZ84j9Wpmq1YvQKBgQDvhy1AEZkdO+t0OWUX\n9hdqZwx3cOSnAheu7XxshKg+ex0J7bpUS8k0c5NjcvJ93DF1AOnpc/pQ83tL/m0s\nfBJGmqNIkRBlkrRLDylXJKupMm3/L8trtzLLtsLiewGUaJA5kYiup/vV9QsgG4/g\n8yuTLZ3+lttIl82fNOxRN4J6UwKBgQDOC7UBpJm4q7eoLmQUg6y2z0xlUuLawyyZ\nrEepiHpFhZDCbDnl4QX0T2iKp3MaI13gR/S30ajfwiFUUNWV/VAB0K7lTBFwgKM1\nv3mgP8+FGScYhcbBnEBPn+A2DzOTZMD41GachdqG5il0f8el0RgZJ09XY2G369hf\nmn0MwtIW2wKBgGZy++C+Zi4B1fh1IA86m9NP1h40NChWlcilHSXRK6DlyYrYmmy5\nqYp8sJrFrIA2sRSpWmMWzwbWzXK4lPuE6dA3DgXYvhmjwOelyXnTXnTU9AVE7Q3a\nYqiNOBfkos1WV/G3lK2XffiKgcKu50BA4e9mgIBHB+2puDITUcx/IJivAoGAGll6\n61veYLRtBy/vkoQISVSXQ3nnEuzUvk4+19phMJTVH1fxy4kMVuL0zo59dMFDFxR8\noilIvFy6IGs59TVwztqeEyq4LDf3Jz92UVz3r+C4lDU/ZrERtF0QsjkdcmL3Hpsj\nCC9B8/BpKsHQiU8FEuppBhbqfzfE8uzxwvkDHvMCgYB6EP1vHBWxOjx2c2gAI78P\nZ8JReEe9bH7MhOJojf4Jmp6bya40DwIjNfqRoMvhuwlOKCjqjBGs2CoX+srVlLiZ\nwJpIryyHkTUNqYACobKHw/v3iA8GFgEo7hZqSd+Lj9pTvD3MXR1Lsd+7wthgZILq\nGMtCLuBSTTZUQlPrYKRvrQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-944@protean-music-408109.iam.gserviceaccount.com",
+  "client_id": "105237261593384121828",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-944%40protean-music-408109.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
