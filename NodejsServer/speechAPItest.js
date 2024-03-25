@@ -7,7 +7,7 @@ async function main() {
 	const client = new speech.SpeechClient();
 
 	// The name of the audio file to transcribe
-	const fileName = "C:\\Users\\mengd\\Desktop\\ESP32_SPEECH_TO_TEXT\\NodejsServer\\resources\\recording.wav";
+	const fileName = "C:\\Users\\Username\\Desktop\\XIAO-ESP32S3Sense-Speech2ChatGPT\\NodejsServer\\resources\\recording.wav";
 
 	// Reads a local audio file and converts it to base64
 	const file = fs.readFileSync(fileName);
